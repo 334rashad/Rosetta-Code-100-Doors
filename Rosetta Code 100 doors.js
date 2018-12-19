@@ -16,6 +16,8 @@ function getFinalOpenedDoors (numDoors) {
     }
   }
   return openDoors;
+  // good luck to me
 }
 getFinalOpenedDoors(100)
-console.log(getFinalOpenedDoors(100))
+console.log(getFinalOpenedDoors(100));
+console.log(getFinalOpenedDoors(200));
